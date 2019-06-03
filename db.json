@@ -1,0 +1,36 @@
+[
+        {
+            "school_id": 2,
+            "classes": [
+                {
+                    "class_id": 3,
+                    "students": [],
+                    "teachers": [],
+                    "class_name": "Primeirão da massa",
+                    "class_unit": "Morning",
+                    "class_level": 11
+                },
+                {
+                    "class_id": 4,
+                    "students": [],
+                    "teachers": [],
+                    "class_name": "terceirão",
+                    "class_unit": "Morning",
+                    "class_level": 13
+                }
+            ],
+            "chains": [
+                {
+                    "name": "Unidade Educacional Coração Imaculado de Maria-2019-Morning-Primeirão da massa",
+                    "block_set": []
+                },
+                {
+                    "name": "Unidade Educacional Coração Imaculado de Maria-2019-Morning-terceirão",
+                    "block_set": []
+                }
+            ],
+            "school_name": "Unidade Educacional Coração Imaculado de Maria",
+            "enrollment_year": 2019,
+            "head": null
+        }
+    ]
